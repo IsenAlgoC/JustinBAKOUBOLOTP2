@@ -5,7 +5,7 @@ int main() { // Ceci est un jeu où l'utilisateur doit deviner un nombre tiré au 
 	int Nombre_A_Trouver = (int)rand(1, 1000);
 	int Nombre_Entre = 0;
 	int Compteur = 0;
-
+	
 
 	while (Nombre_A_Trouver != Nombre_Entre) {
 		printf("Veuillez Entrer le bon nombre \n ");
