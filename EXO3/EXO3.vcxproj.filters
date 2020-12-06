@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Annee Bissextiles.c">
+    <ClCompile Include="Exo3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

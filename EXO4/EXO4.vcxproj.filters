@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Trouver le bon nombre.c">
+    <ClCompile Include="Exo4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
